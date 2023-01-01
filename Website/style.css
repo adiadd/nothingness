@@ -1,0 +1,37 @@
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.container2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.center {
+    text-align: center;
+  }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 00;
+    width: 100%;
+    color: black;
+    text-align: center;
+    padding-bottom: 5%;
+  }
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+  }
